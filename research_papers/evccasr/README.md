@@ -4,6 +4,10 @@
 
 Augments existing codecs with small content-adaptive super-resolution models.
 
+## TAGs
+
+#ICCV #Y2021 #video_compression #video_super_resolution
+
 ## Methods
 
 ### Dual-stream
