@@ -9,15 +9,15 @@
 
 ### Conferences
 
-#ICCV
+#ICCV #TOG
 
 ### Years
 
-#Y2021
+[#Y2021](#2021) [#Y2020](#2020)
 
 ### Research Areas
 
-#video_compression #video_super_resolution
+#gan #temporal_coherence #video_compression #video_super_resolution
 
 ## Research Papers
 
@@ -26,6 +26,12 @@
 - [Efficient Video Compression via Content-Adaptive Super-Resolution](./research_papers/evccasr/)
     - Augments existing codecs with small content-adaptive super-resolution models.
     - #ICCV #Y2021 #video_compression #video_super_resolution
+
+### 2020
+
+- [Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation](./research_papers/ltcsgvg/)
+    - Proposed a spatio-temporal discriminator for temporal coherence of video generation.
+    - #TOG #Y2020 #gan #temporal_coherence #video_super_resolution
 
 ## Modules
 
