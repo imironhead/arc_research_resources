@@ -43,7 +43,7 @@ $g_t = G( a_t, W( g_{t-1}, v_t) )$
     - $I_{wg} = W( g_{t-1}, F( a_{t-1}, a_{t}) ) \mathbin\Vert g_{t} \mathbin\Vert W( g_{t+1}, F( a_{t+1}, a_{t}) )$
         - Warped super resolved triplet, provide temporal information.
 
-🚨 I am not sure if $I_wb$ and $I_wg$ are warped like in the recurrent generator. And I have difficulty on understanding the implementation.
+🚨 I am not sure if $I_{wb}$ and $I_{wg}$ are warped like in the recurrent generator. And I have difficulty on understanding the implementation.
 
 ### Ping-pong Loss
 
