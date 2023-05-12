@@ -30,7 +30,7 @@ In order to effectively capture a large motion between two input frames, the fea
 
 ![](./assets/cfr.png)
 
-- $\tilde{F}_{t0}^x = \frac{ (1-t) \sum_{\mathcal{N}_0} w_0 \cdot (-F_{0t}^y) + t \sum_{\mathcal{N}_1} w_1 \cdot F_{1 \cdot (1-t)}^y }{ (1-t) \sum_{\mathcal{N}_0} w_0 + t \sum_{\mathcal{N}_1} w_1 }$
+- $`\tilde{F}_{t0}^x = \frac{ (1-t) \sum_{\mathcal{N}_0} w_0 \cdot (-F_{0t}^y) + t \sum_{\mathcal{N}_1} w_1 \cdot F_{1 \cdot (1-t)}^y }{ (1-t) \sum_{\mathcal{N}_0} w_0 + t \sum_{\mathcal{N}_1} w_1 }`$
     - The neighborhoods of **x** are defined as:
         - $`\mathcal{N}_0 = \{y | round(y + F_{0t}^y) = x\}`$
         - $`\mathcal{N}_1 = \{y | round(y + F_{1t}^y) = x\}`$
