@@ -33,6 +33,10 @@
     - Augments existing codecs with small content-adaptive super-resolution models.
     - #ICCV #Y2021 #video_compression #video_super_resolution
 
+- [XVFI: eXtreme Video Frame Interpolation](./research_papers/xvfi/)
+    - Proposed a video frame interpolation network which handles different degree of motions effectively and can interpolate frames at any position between 2 input frames.
+    - #ICCV #Y2021 #video_frame_interpolation
+
 ### 2020
 
 - [Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation](./research_papers/ltcsgvg/)
@@ -47,3 +51,4 @@
 ## Datasets
 
 - Xiph
+- X4k1000FPS
