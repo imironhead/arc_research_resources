@@ -9,15 +9,15 @@
 
 ### Journals
 
-#CVPR #ICCV #TOG
+#ARXIV #CVPR #ICCV #TOG
 
 ### Years
 
-[#Y2023](#y2023) [#Y2021](#y2021) [#Y2020](#y2020)
+[#Y2023](#y2023) [#Y2022](#y2022) [#Y2021](#y2021) [#Y2020](#y2020)
 
 ### Research Areas
 
-#gan #temporal_coherence #video_compression #video_frame_interpolation #video_frame_interpolation #video_super_resolution #video_super_resolution
+#gan #temporal_coherence #video_compression #video_frame_interpolation #video_super_resolution
 
 ## Research Papers
 
@@ -26,6 +26,12 @@
 - [A Unified Pyramid Recurrent Network for Video Frame Interpolation](../../research_papers/uprnvfi/)
     - Proposed a pyramid network that unify optical flow and frame synthesis networks in each layer.
     - #CVPR #Y2023 #video_frame_interpolation
+
+### Y2022
+
+- [Self-Supervised Deep Blind Video Super-Resolution](../../research_papers/ssdbvsr/)
+    - Proposed a self-supervised learning algorithm for VSR.
+    - #ARXIV #Y2022 #video_super_resolution
 
 ### Y2021
 
