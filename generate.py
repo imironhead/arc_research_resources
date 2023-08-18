@@ -55,7 +55,7 @@ All the contents will be generated base on existing notes within
 ./research_papers/. Each note is expected to be a GitHub README.md within a
 directory. For example, the note for the paper "Learning Temporal Coherence via
 Self-Supervision for GAN-based Video Generation" is in
- ./research_papers/ltcsgvg/README.ms.
+ ./research_papers/ltcsgvg/README.md.
 
 Each note should follow the template:
 
@@ -118,7 +118,7 @@ class NotePageReader(Page):
     # journal tag. The script sorts the tags and always put the journal tag in
     # the beginning of the tags.
     JOURNAL_TAGS = {
-        '#CVPR', '#ICCV', '#TOG',
+        '#ARXIV', '#CVPR', '#ICCV', '#TOG',
     }
 
     @staticmethod
@@ -354,6 +354,7 @@ class TopicPageWriter(Page):
             NotePageReader.is_journal_tag, area_tags)
         area_tags = itertools.filterfalse(
             NotePageReader.is_year_tag, area_tags)
+        area_tags = list(set(area_tags))
 
         journal_tags = ' '.join(sorted(journal_tags))
         year_tags = ' '.join(sorted(year_tags, reverse=True))
