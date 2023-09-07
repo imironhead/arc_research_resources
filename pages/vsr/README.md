@@ -23,6 +23,10 @@
 
 ### Y2023
 
+- [Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting](../../research_papers/thqevsrstdo/)
+    - Proposed a non-blind video super resolution framework leveraging the unbalanced information density within video frames.
+    - #CVPR #Y2023 #video_super_resolution
+
 - [A Unified Pyramid Recurrent Network for Video Frame Interpolation](../../research_papers/uprnvfi/)
     - Proposed a pyramid network that unify optical flow and frame synthesis networks in each layer.
     - #CVPR #Y2023 #video_frame_interpolation
