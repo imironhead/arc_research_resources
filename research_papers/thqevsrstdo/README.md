@@ -39,4 +39,5 @@ Instead of estimating scores of each patch for different VSR models (e.g. faces 
 
 ## Resources
 
+- [ARXIV: Paper](https://arxiv.org/abs/2303.08331)
 - [GitHub: Official implementation](https://github.com/coulsonlee/STDO-CVPR2023/)
