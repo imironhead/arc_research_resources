@@ -33,6 +33,10 @@
 
 ### Y2022
 
+- [VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution](../../research_papers/videoinr/)
+    - Proposed a Spatio-Temporal VSR model which synthesize frames from encoded spatial-temporal information.
+    - #CVPR #Y2022 #video_frame_interpolation #video_super_resolution
+
 - [Self-Supervised Deep Blind Video Super-Resolution](../../research_papers/ssdbvsr/)
     - Proposed a self-supervised learning algorithm for VSR.
     - #ARXIV #Y2022 #video_super_resolution
@@ -56,6 +60,10 @@
     - #ICCV #Y2021 #video_compression #video_super_resolution
 
 ### Y2020
+
+- [Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution](../../research_papers/zoomingslowmo/)
+    - Proposed a Spatio-Temporal VSR model utilizing deformable convolution on spatial and temporal alignments.
+    - #CVPR #Y2020 #video_frame_interpolation #video_super_resolution
 
 - [SR360: Boosting 360-Degree Video Streaming with Super-Resolution](../../research_papers/sr360/)
     - Designed a framework exploiting VSR and deep reenforcement learning for 360-degree video streaming application.
