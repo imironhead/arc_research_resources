@@ -9,15 +9,15 @@
 
 ### Journals
 
-#ARXIV #CVPR #ICCV #TOG
+#AAAI #ARXIV #CVPR #ICCV #NOSSDAV #TOG
 
 ### Years
 
-[#Y2023](#y2023) [#Y2022](#y2022) [#Y2021](#y2021) [#Y2020](#y2020)
+[#Y2023](#y2023) [#Y2022](#y2022) [#Y2021](#y2021) [#Y2020](#y2020) [#Y2019](#y2019)
 
 ### Research Areas
 
-#gan #temporal_coherence #video_compression #video_frame_interpolation #video_super_resolution
+#360_video_streaming #gan #temporal_coherence #video_compression #video_frame_interpolation #video_super_resolution
 
 ## Research Papers
 
@@ -37,11 +37,19 @@
     - Proposed a self-supervised learning algorithm for VSR.
     - #ARXIV #Y2022 #video_super_resolution
 
+- [Revisiting Super-Resolution for Internet Video Streaming](../../research_papers/rsrivs/)
+    - Discussed 3 questions of applying VSR on video streaming: training dataset resolution, patch selection and model updating frequency.
+    - #NOSSDAV #Y2022 #video_super_resolution
+
 ### Y2021
 
 - [XVFI: eXtreme Video Frame Interpolation](../../research_papers/xvfi/)
     - Proposed a video frame interpolation network which handles different degree of motions effectively and can interpolate frames at any position between 2 input frames.
     - #ICCV #Y2021 #video_frame_interpolation
+
+- [CrowdSR: Enabling High-Quality Video Ingest in Crowd-sourced Livecast via Super-Resolution](../../research_papers/crowdsr/)
+    - Proposed a system that broadcaster with weak device can exploit high-resolution video samples from other similar broadcasters.
+    - #NOSSDAV #Y2021 #video_super_resolution
 
 - [Efficient Video Compression via Content-Adaptive Super-Resolution](../../research_papers/evccasr/)
     - Augments existing codecs with small content-adaptive super-resolution models.
@@ -49,6 +57,24 @@
 
 ### Y2020
 
+- [SR360: Boosting 360-Degree Video Streaming with Super-Resolution](../../research_papers/sr360/)
+    - Designed a framework exploiting VSR and deep reenforcement learning for 360-degree video streaming application.
+    - #NOSSDAV #Y2020 #360_video_streaming #video_super_resolution
+
 - [Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation](../../research_papers/ltcsgvg/)
     - Proposed a spatio-temporal discriminator for temporal coherence of video generation.
     - #TOG #Y2020 #gan #temporal_coherence #video_super_resolution
+
+- [Space-Time-Aware Multi-Resolution Video Enhancement](../../research_papers/stamrve/)
+    - Proposed a Spatio Temporal VSR framework.
+    - #CVPR #Y2020 #video_frame_interpolation #video_super_resolution
+
+- [FISR: Deep Joint Frame Interpolation and Super-Resolution with a Multi-Scale Temporal Loss](../../research_papers/fisr/)
+    - Proposed multi-scale temporal loss to regularize STVSR.
+    - #AAAI #Y2020 #video_frame_interpolation #video_super_resolution
+
+### Y2019
+
+- [Fast Spatio-Temporal Residual Network for Video Super-Resolution](../../research_papers/fstrnvsr/)
+    - Proposed **factorized** 3D convolution to reduce computation costs of normal 3D convolution for spatio-temporal residual blocks.
+    - #CVPR #Y2019 #video_super_resolution

@@ -118,7 +118,7 @@ class NotePageReader(Page):
     # journal tag. The script sorts the tags and always put the journal tag in
     # the beginning of the tags.
     JOURNAL_TAGS = {
-        '#ARXIV', '#CVPR', '#ICCV', '#TOG',
+        '#AAAI', '#ARXIV', '#CVPR', '#ICCV', '#NOSSDAV', '#TOG',
     }
 
     @staticmethod
@@ -474,6 +474,7 @@ class VSRTopicPageWriter(ResearchTopicPageWriter):
         # Temporal super resolution: Video frame interpolation.
         # Spectrum super resolution: High dynamic range.
         area_tags = {
+            '#360_video_streaming',
             '#high_dynamic_range_image', '#high_dynamic_range_video',
             '#single_image_super_resolution',
             '#video_frame_interpolation', '#video_super_resolution',
