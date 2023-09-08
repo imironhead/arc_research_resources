@@ -31,6 +31,10 @@
     - Proposed a pyramid network that unify optical flow and frame synthesis networks in each layer.
     - #CVPR #Y2023 #video_frame_interpolation
 
+- [BiFormer: Learning Bilateral Motion Estimation via Bilateral Transformer for 4K Video Frame Interpolation](../../research_papers/biformer/)
+    - Proposed a model to do 4K video frame interpolation with Transformer.
+    - #CVPR #Y2023 #video_frame_interpolation
+
 ### Y2022
 
 - [VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution](../../research_papers/videoinr/)
