@@ -9,7 +9,7 @@
 
 ### Journals
 
-#AAAI #ARXIV #CVPR #ICCV #IJCV #NOSSDAV #TOG
+#AAAI #ARXIV #CVPR #ECCV #ICCV #IJCV #NOSSDAV #TOG
 
 ### Years
 
@@ -76,6 +76,10 @@
 - [Space-Time-Aware Multi-Resolution Video Enhancement](../../research_papers/stamrve/)
     - Proposed a Spatio Temporal VSR framework.
     - #CVPR #Y2020 #video_frame_interpolation #video_super_resolution
+
+- [Deep Space-Time Video Upsampling Networks](../../research_papers/dstvun/)
+    - Proposed a model which fuse spatio-temporal features for spatio-temporal video super resolution.
+    - #ECCV #Y2020 #video_frame_interpolation #video_super_resolution
 
 - [FISR: Deep Joint Frame Interpolation and Super-Resolution with a Multi-Scale Temporal Loss](../../research_papers/fisr/)
     - Proposed multi-scale temporal loss to regularize STVSR.
