@@ -9,7 +9,7 @@
 
 ### Journals
 
-#AAAI #ARXIV #CVPR #ICCV #NOSSDAV #TOG
+#AAAI #ARXIV #CVPR #ICCV #IJCV #NOSSDAV #TOG
 
 ### Years
 
@@ -17,7 +17,7 @@
 
 ### Research Areas
 
-#360_video_streaming #gan #temporal_coherence #video_compression #video_frame_interpolation #video_super_resolution
+#360_video_streaming #gan #temporal_coherence #video_compression #video_denosing #video_frame_interpolation #video_super_resolution
 
 ## Research Papers
 
@@ -82,6 +82,10 @@
     - #AAAI #Y2020 #video_frame_interpolation #video_super_resolution
 
 ### Y2019
+
+- [Video Enhancement with Task-Oriented Flow](../../research_papers/vetof/)
+    - Proposed a unified framework with optical flow for video super resolution, interpolation,  denoising and deblocking.
+    - #IJCV #Y2019 #video_denosing #video_frame_interpolation #video_super_resolution
 
 - [Fast Spatio-Temporal Residual Network for Video Super-Resolution](../../research_papers/fstrnvsr/)
     - Proposed **factorized** 3D convolution to reduce computation costs of normal 3D convolution for spatio-temporal residual blocks.
