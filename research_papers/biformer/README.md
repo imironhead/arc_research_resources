@@ -22,7 +22,7 @@ First, we estimate global motion fields at a coarse scale via BiFormer. Second, 
 
 - BCA-A (Bilateral Cross Attention without Anchor)
     - In the beginning, $`\mathcal{F}_{0.5}`$ (the anchor) does not exist.
-    - Use a feature from $`\mathcal{F}_{0}`$ as $`Q`$ and a feature from $`\mathcal{F}_{1}`$ as $`K`$. If they got lots of attention, there may be a pixel moving from $`Q`$ to $`K`$. ^^NOTE: $`Q`$ and  $`K`$ are at point symmetric positions.^^
+    - Use a feature from $`\mathcal{F}_{0}`$ as $`Q`$ and a feature from $`\mathcal{F}_{1}`$ as $`K`$. If they got lots of attention, there may be a pixel moving from $`Q`$ to $`K`$. NOTE: $`Q`$ and  $`K`$ are at point symmetric positions.
     - Use the attention to build the initial anchor (an initial guess of $`F_{0.5}`$).
 - BCA+A (Bilateral Cross Attention with Anchor)
     - Now we have anchor, use $`F_{0.5}`$ as $`Q`$.
