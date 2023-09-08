@@ -13,11 +13,11 @@
 
 ### Years
 
-[#Y2023](#y2023) [#Y2022](#y2022) [#Y2021](#y2021) [#Y2020](#y2020) [#Y2019](#y2019)
+[#Y2023](#y2023) [#Y2022](#y2022) [#Y2021](#y2021) [#Y2020](#y2020) [#Y2019](#y2019) [#Y2016](#y2016)
 
 ### Research Areas
 
-#360_video_streaming #gan #temporal_coherence #video_compression #video_denosing #video_frame_interpolation #video_super_resolution
+#360_video_streaming #gan #image_super_resolution #temporal_coherence #video_compression #video_denosing #video_frame_interpolation #video_super_resolution
 
 ## Research Papers
 
@@ -98,3 +98,9 @@
 - [Fast Spatio-Temporal Residual Network for Video Super-Resolution](../../research_papers/fstrnvsr/)
     - Proposed **factorized** 3D convolution to reduce computation costs of normal 3D convolution for spatio-temporal residual blocks.
     - #CVPR #Y2019 #video_super_resolution
+
+### Y2016
+
+- [Real-time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](../../research_papers/rsivsruescnn/)
+    - Proposed sb-pixel convolution layer to reduce computation cost of up-scaling.
+    - #CVPR #Y2016 #image_super_resolution #video_super_resolution
