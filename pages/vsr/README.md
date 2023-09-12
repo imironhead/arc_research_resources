@@ -9,7 +9,7 @@
 
 ### Journals
 
-#AAAI #ARXIV #CVPR #ECCV #ICCV #IJCV #NOSSDAV #TOG
+#AAAI #ARXIV #CVPR #ECCV #ICCV #IJCV #INFOCOM #NOSSDAV #TOG
 
 ### Years
 
@@ -72,6 +72,10 @@
 - [SR360: Boosting 360-Degree Video Streaming with Super-Resolution](../../research_papers/sr360/)
     - Designed a framework exploiting VSR and deep reenforcement learning for 360-degree video streaming application.
     - #NOSSDAV #Y2020 #360_video_streaming #video_super_resolution
+
+- [Streaming 360-Degree Videos Using Super-Resolution](../../research_papers/s3vusr/)
+    - Use per-segment micro super-resolution models to improve QoE of 360 video streamings.
+    - #INFOCOM #Y2020 #360_video_streaming #video_super_resolution
 
 - [Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation](../../research_papers/ltcsgvg/)
     - Proposed a spatio-temporal discriminator for temporal coherence of video generation.
