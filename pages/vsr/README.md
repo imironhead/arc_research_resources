@@ -9,7 +9,7 @@
 
 ### Journals
 
-#AAAI #ARXIV #CVPR #ECCV #ICCV #IJCV #INFOCOM #MM #NOSSDAV #TOG #WACV
+#AAAI #ARXIV #CVPR #CVPRW #ECCV #ICCV #IJCV #INFOCOM #MM #NOSSDAV #TOG #WACV
 
 ### Years
 
@@ -138,6 +138,10 @@
 - [Fast Spatio-Temporal Residual Network for Video Super-Resolution](../../research_papers/fstrnvsr/)
     - Proposed **factorized** 3D convolution to reduce computation costs of normal 3D convolution for spatio-temporal residual blocks.
     - #CVPR #Y2019 #video_super_resolution
+
+- [EDVR: Video Restoration with Enhanced Deformable Convolutional Networks](../../research_papers/edvr/)
+    - Proposed a model with pyramid, cascading, deformable alignment and temporal-spatial-attention for video restoration.
+    - #CVPRW #Y2019 #video_super_resolution
 
 ### Y2016
 
