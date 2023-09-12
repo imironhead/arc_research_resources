@@ -9,7 +9,7 @@
 
 ### Journals
 
-#AAAI #ARXIV #CVPR #ECCV #ICCV #IJCV #INFOCOM #NOSSDAV #TOG
+#AAAI #ARXIV #CVPR #ECCV #ICCV #IJCV #INFOCOM #MM #NOSSDAV #TOG
 
 ### Years
 
@@ -44,6 +44,10 @@
 - [Self-Supervised Deep Blind Video Super-Resolution](../../research_papers/ssdbvsr/)
     - Proposed a self-supervised learning algorithm for VSR.
     - #ARXIV #Y2022 #video_super_resolution
+
+- [Sophon: Super-Resolution Enhanced 360° Video Streaming with Visual Saliency-aware Prefetch](../../research_papers/sophon/)
+    - Proposed a buffer-based and super-resolution enhanced streaming framework for tile-based 360° video.
+    - #MM #Y2022 #360_video_streaming #video_super_resolution
 
 - [Revisiting Super-Resolution for Internet Video Streaming](../../research_papers/rsrivs/)
     - Discussed 3 questions of applying VSR on video streaming: training dataset resolution, patch selection and model updating frequency.
