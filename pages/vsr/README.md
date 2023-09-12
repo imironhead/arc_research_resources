@@ -99,6 +99,10 @@
 
 ### Y2019
 
+- [Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations](../../research_papers/pfvsrnenlstc/)
+    - Proposed progressive fusion network to aggregate temporal-corrleated information for VSR.
+    - #ICCV #Y2019 #video_super_resolution
+
 - [Video Enhancement with Task-Oriented Flow](../../research_papers/vetof/)
     - Proposed a unified framework with optical flow for video super resolution, interpolation,  denoising and deblocking.
     - #IJCV #Y2019 #video_denosing #video_frame_interpolation #video_super_resolution
