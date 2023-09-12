@@ -83,6 +83,10 @@
 
 ### Y2021
 
+- [Edge-oriented Convolution Block for Real-time Super Resolution on Mobile Devices](../../research_papers/eocbrtsrmd/)
+    - Re-parameterizes the model with mobile-friendly operations (only conv3x3) for inference.
+    - #MM #Y2021 #video_super_resolution
+
 - [XVFI: eXtreme Video Frame Interpolation](../../research_papers/xvfi/)
     - Proposed a video frame interpolation network which handles different degree of motions effectively and can interpolate frames at any position between 2 input frames.
     - #ICCV #Y2021 #video_frame_interpolation
