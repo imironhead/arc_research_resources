@@ -83,6 +83,10 @@
     - Proposed a video frame interpolation network which handles different degree of motions effectively and can interpolate frames at any position between 2 input frames.
     - #ICCV #Y2021 #video_frame_interpolation
 
+- [Space-Time Distillation for Video Super-Resolution](../../research_papers/stdvsr/)
+    - Proposed a space-time distillation (STD) scheme to exploit both spatial and temporal knowledge in the VSR task.
+    - #CVPR #Y2021 #video_super_resolution
+
 - [Dual-Stream Fusion Network for Spatiotemporal Video Super-Resolution](../../research_papers/dsfnstcsr/)
     - Proposed a framework of fusing Spatio-Temporal-VSR & Temporal-Spatio-VSR streams.
     - #WACV #Y2021 #video_frame_interpolation #video_super_resolution
