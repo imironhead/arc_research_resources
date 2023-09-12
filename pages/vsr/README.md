@@ -95,6 +95,10 @@
     - Proposed a system that broadcaster with weak device can exploit high-resolution video samples from other similar broadcasters.
     - #NOSSDAV #Y2021 #video_super_resolution
 
+- [Large Motion Video Super-Resolution with Dual Subnet and Multi-Stage Communicated Upsampling](../../research_papers/lmvsrdsmscu/)
+    - Proposed a network model with 3 new modules to super resolve videos with large motion.
+    - #AAAI #Y2021 #video_super_resolution
+
 - [Efficient Video Compression via Content-Adaptive Super-Resolution](../../research_papers/evccasr/)
     - Augments existing codecs with small content-adaptive super-resolution models.
     - #ICCV #Y2021 #video_compression #video_super_resolution
