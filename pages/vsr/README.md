@@ -41,6 +41,10 @@
     - Proposed a Spatio-Temporal VSR model which synthesize frames from encoded spatial-temporal information.
     - #CVPR #Y2022 #video_frame_interpolation #video_super_resolution
 
+- [Memory-Augmented Non-Local Attention for Video Super-Resolution](../../research_papers/manlavsr/)
+    - Improve VSR by replacing optical flow with non-local attention and enhance the details with memories.
+    - #CVPR #Y2022 #video_super_resolution
+
 - [Self-Supervised Deep Blind Video Super-Resolution](../../research_papers/ssdbvsr/)
     - Proposed a self-supervised learning algorithm for VSR.
     - #ARXIV #Y2022 #video_super_resolution
