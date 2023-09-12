@@ -99,6 +99,10 @@
     - Augments existing codecs with small content-adaptive super-resolution models.
     - #ICCV #Y2021 #video_compression #video_super_resolution
 
+- [Efficient Space-time Video Super Resolution using Low-Resolution Flow and Mask Upsampling](../../research_papers/estvsrlrfmu/)
+    - Proposed a multi-module network to do video super resolution and frame interpolation jointly.
+    - #CVPRW #Y2021 #video_frame_interpolation #video_super_resolution
+
 ### Y2020
 
 - [Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution](../../research_papers/zoomingslowmo/)
