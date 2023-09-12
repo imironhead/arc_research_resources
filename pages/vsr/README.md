@@ -119,6 +119,10 @@
     - Proposed a baseline framework and improvements on long video sequences.
     - #CVPR #Y2021 #video_super_resolution
 
+- [FOCAS: Practical Video Super Resolution using Foveated Rendering](../../research_papers/focas/)
+    - Leverages the "addition" property of residual block to focus the computing power on fovea area.
+    - #MM #Y2021 #video_super_resolution
+
 - [Efficient Space-time Video Super Resolution using Low-Resolution Flow and Mask Upsampling](../../research_papers/estvsrlrfmu/)
     - Proposed a multi-module network to do video super resolution and frame interpolation jointly.
     - #CVPRW #Y2021 #video_frame_interpolation #video_super_resolution
