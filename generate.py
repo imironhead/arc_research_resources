@@ -119,6 +119,7 @@ class NotePageReader(Page):
     # the beginning of the tags.
     JOURNAL_TAGS = {
         '#AAAI', '#ARXIV', '#CVPR', '#ECCV', '#ICCV', '#IJCV', '#INFOCOM', '#MM', '#NOSSDAV', '#TOG',
+        '#WACV',
     }
 
     @staticmethod

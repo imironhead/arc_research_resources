@@ -9,7 +9,7 @@
 
 ### Journals
 
-#AAAI #ARXIV #CVPR #ECCV #ICCV #IJCV #INFOCOM #MM #NOSSDAV #TOG
+#AAAI #ARXIV #CVPR #ECCV #ICCV #IJCV #INFOCOM #MM #NOSSDAV #TOG #WACV
 
 ### Years
 
@@ -58,6 +58,10 @@
 - [XVFI: eXtreme Video Frame Interpolation](../../research_papers/xvfi/)
     - Proposed a video frame interpolation network which handles different degree of motions effectively and can interpolate frames at any position between 2 input frames.
     - #ICCV #Y2021 #video_frame_interpolation
+
+- [Dual-Stream Fusion Network for Spatiotemporal Video Super-Resolution](../../research_papers/dsfnstcsr/)
+    - Proposed a framework of fusing Spatio-Temporal-VSR & Temporal-Spatio-VSR streams.
+    - #WACV #Y2021 #video_frame_interpolation #video_super_resolution
 
 - [CrowdSR: Enabling High-Quality Video Ingest in Crowd-sourced Livecast via Super-Resolution](../../research_papers/crowdsr/)
     - Proposed a system that broadcaster with weak device can exploit high-resolution video samples from other similar broadcasters.
