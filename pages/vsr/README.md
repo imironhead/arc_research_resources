@@ -41,6 +41,10 @@
     - Proposed a Spatio-Temporal VSR model which synthesize frames from encoded spatial-temporal information.
     - #CVPR #Y2022 #video_frame_interpolation #video_super_resolution
 
+- [BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment](../../research_papers/basicvsrpp/)
+    - Redesigned BasicVSR with second-order grid propagation and flow-guided deformable alignment for video super-resolution.
+    - #CVPR #Y2022 #video_super_resolution
+
 - [Reference-based Video Super-Resolution Using Multi-Camera Video Triplets](../../research_papers/rvsrumcvt/)
     - Uses high-resolution video frames as reference to super-resolve low-resolution video frames.
     - #CVPR #Y2022 #video_super_resolution
