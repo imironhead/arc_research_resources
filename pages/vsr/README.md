@@ -37,6 +37,10 @@
 
 ### Y2022
 
+- [Investigating Tradeoffs in Real-World Video Super-Resolution](../../research_papers/itrwvsr/)
+    - -
+    - #CVPR #Y2022 #video_super_resolution
+
 - [VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution](../../research_papers/videoinr/)
     - Proposed a Spatio-Temporal VSR model which synthesize frames from encoded spatial-temporal information.
     - #CVPR #Y2022 #video_frame_interpolation #video_super_resolution
