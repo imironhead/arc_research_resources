@@ -53,6 +53,10 @@
     - Improve VSR by replacing optical flow with non-local attention and enhance the details with memories.
     - #CVPR #Y2022 #video_super_resolution
 
+- [Spatial-Temporal Space Hand-in-Hand: Spatial-Temporal Video Super-Resolution via Cycle-Projected Mutual Learning](../../research_papers/stshstvsrcpml/)
+    - Utilizes the deep-back projection architecture for STVSR.
+    - #CVPR #Y2022 #video_frame_interpolation #video_super_resolution
+
 - [Self-Supervised Deep Blind Video Super-Resolution](../../research_papers/ssdbvsr/)
     - Proposed a self-supervised learning algorithm for VSR.
     - #ARXIV #Y2022 #video_super_resolution
