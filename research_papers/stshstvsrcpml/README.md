@@ -26,7 +26,8 @@ Spatio-Temporal Correlations](https://github.com/psychopa4/PFNL)
 - Feature temporal interpolation network. Along with the motion offsets estimation, we adopt **deformable convolution** to interpolate forward and backward representations from the missing intermediate frames.
 - Reconstruction network
 
-
 ## Resources
 
-[Codes are publicly available at ... ???](https://github.com/hhhhhumengshun/CycMuNet)
+- [CVF: The paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Spatial-Temporal_Space_Hand-in-Hand_Spatial-Temporal_Video_Super-Resolution_via_Cycle-Projected_Mutual_Learning_CVPR_2022_paper.pdf)
+- [ARXIV: The paper](https://arxiv.org/abs/2205.05264)
+- [Codes are publicly available at ... ???](https://github.com/hhhhhumengshun/CycMuNet)
