@@ -9,7 +9,7 @@
 
 ### Journals
 
-#AAAI #ARXIV #CVPR #CVPRW #ECCV #ICCV #IJCV #INFOCOM #MM #NOSSDAV #TOG #WACV
+#AAAI #ARXIV #CVPR #CVPRW #ECCV #ICCV #IJCV #INFOCOM #MM #NOSSDAV #SPL #TOG #WACV
 
 ### Years
 
@@ -152,6 +152,10 @@
 - [Deep Space-Time Video Upsampling Networks](../../research_papers/dstvun/)
     - Proposed a model which fuse spatio-temporal features for spatio-temporal video super resolution.
     - #ECCV #Y2020 #video_frame_interpolation #video_super_resolution
+
+- [Deformable 3D Convolution for Video Super-Resolution](../../research_papers/d3dvsr/)
+    - Proposed deformable 3D convolution block (without alignment) for video super resolution.
+    - #SPL #Y2020 #video_super_resolution
 
 - [FISR: Deep Joint Frame Interpolation and Super-Resolution with a Multi-Scale Temporal Loss](../../research_papers/fisr/)
     - Proposed multi-scale temporal loss to regularize STVSR.
