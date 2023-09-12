@@ -65,6 +65,10 @@
     - Discussed 3 questions of applying VSR on video streaming: training dataset resolution, patch selection and model updating frequency.
     - #NOSSDAV #Y2022 #video_super_resolution
 
+- [Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling](../../research_papers/lbfvsretdm/)
+    - Propose a model that separates coarse-fine features to two path and utilizes temporal differences.
+    - #CVPR #Y2022 #video_super_resolution
+
 ### Y2021
 
 - [XVFI: eXtreme Video Frame Interpolation](../../research_papers/xvfi/)
