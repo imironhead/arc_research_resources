@@ -65,6 +65,10 @@
     - Proposed a self-supervised learning algorithm for VSR.
     - #ARXIV #Y2022 #video_super_resolution
 
+- [RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution](../../research_papers/rstt/)
+    - Proposed a light-weight space-time video super-resolution model with Swin Transformer.
+    - #CVPR #Y2022 #video_frame_interpolation #video_super_resolution
+
 - [Sophon: Super-Resolution Enhanced 360° Video Streaming with Visual Saliency-aware Prefetch](../../research_papers/sophon/)
     - Proposed a buffer-based and super-resolution enhanced streaming framework for tile-based 360° video.
     - #MM #Y2022 #360_video_streaming #video_super_resolution
