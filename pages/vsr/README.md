@@ -149,6 +149,10 @@
     - Proposed multi-scale temporal loss to regularize STVSR.
     - #AAAI #Y2020 #video_frame_interpolation #video_super_resolution
 
+- [Space-Time Video Super-Resolution Using Temporal Profiles](../../research_papers/stvsrutp/)
+    - Super resolve video with spatial-temporal correlations.
+    - #MM #Y2020 #video_frame_interpolation #video_super_resolution
+
 ### Y2019
 
 - [Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations](../../research_papers/pfvsrnenlstc/)
