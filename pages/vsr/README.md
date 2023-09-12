@@ -107,6 +107,10 @@
     - Augments existing codecs with small content-adaptive super-resolution models.
     - #ICCV #Y2021 #video_compression #video_super_resolution
 
+- [How Video Super-Resolution and Frame Interpolation Mutually Benefit](../../research_papers/hvsrfimb/)
+    - Joins video super resolution & video frame interpolation in one large neural network.
+    - #MM #Y2021 #video_frame_interpolation #video_super_resolution
+
 - [BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond](../../research_papers/basicvsr/)
     - Proposed a baseline framework and improvements on long video sequences.
     - #CVPR #Y2021 #video_super_resolution
