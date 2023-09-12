@@ -147,6 +147,10 @@
     - Proposed **factorized** 3D convolution to reduce computation costs of normal 3D convolution for spatio-temporal residual blocks.
     - #CVPR #Y2019 #video_super_resolution
 
+- [NTIRE 2019 Challenge on Video Super-Resolution: Methods and Results](../../research_papers/ntire19vsr/)
+    - Summarized 2 video super resolution challenges and proposed models.
+    - #CVPRW #Y2019 #video_super_resolution
+
 - [EDVR: Video Restoration with Enhanced Deformable Convolutional Networks](../../research_papers/edvr/)
     - Proposed a model with pyramid, cascading, deformable alignment and temporal-spatial-attention for video restoration.
     - #CVPRW #Y2019 #video_super_resolution
