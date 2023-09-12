@@ -41,6 +41,10 @@
     - Proposed a Spatio-Temporal VSR model which synthesize frames from encoded spatial-temporal information.
     - #CVPR #Y2022 #video_frame_interpolation #video_super_resolution
 
+- [Reference-based Video Super-Resolution Using Multi-Camera Video Triplets](../../research_papers/rvsrumcvt/)
+    - Uses high-resolution video frames as reference to super-resolve low-resolution video frames.
+    - #CVPR #Y2022 #video_super_resolution
+
 - [Memory-Augmented Non-Local Attention for Video Super-Resolution](../../research_papers/manlavsr/)
     - Improve VSR by replacing optical flow with non-local attention and enhance the details with memories.
     - #CVPR #Y2022 #video_super_resolution
