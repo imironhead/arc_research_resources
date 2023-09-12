@@ -21,5 +21,7 @@ Uses high-resolution video frames as reference to super-resolve low-resolution v
 ## Resources
 
 - [Project page](https://junyonglee.me/projects/RefVSR/)
+- [CVF: The paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Reference-Based_Video_Super-Resolution_Using_Multi-Camera_Video_Triplets_CVPR_2022_paper.pdf)
+- [ARXIV: The paper](https://arxiv.org/abs/2203.14537)
 - [GitHub: Official implementation](https://github.com/codeslake/RefVSR)
 - [YouTube: Presentation](https://youtu.be/DwvJgmCODH4)
