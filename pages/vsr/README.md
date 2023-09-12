@@ -45,6 +45,10 @@
     - Uses high-resolution video frames as reference to super-resolve low-resolution video frames.
     - #CVPR #Y2022 #video_super_resolution
 
+- [TT-VSR: Learning Trajectory-Aware Transformer for Video Super-Resolution](../../research_papers/ttvsr/)
+    - Fues each feature with the most relevant feature along its trajectory to enhance the VSR results.
+    - #CVPR #Y2022 #video_super_resolution
+
 - [Memory-Augmented Non-Local Attention for Video Super-Resolution](../../research_papers/manlavsr/)
     - Improve VSR by replacing optical flow with non-local attention and enhance the details with memories.
     - #CVPR #Y2022 #video_super_resolution
