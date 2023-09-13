@@ -118,7 +118,9 @@ class NotePageReader(Page):
     # journal tag. The script sorts the tags and always put the journal tag in
     # the beginning of the tags.
     JOURNAL_TAGS = {
-        '#ARXIV', '#CVPR', '#ICCV', '#TOG',
+        '#AAAI', '#ARXIV', '#CVPR', '#CVPRW', '#ECCV', '#ICCV', '#IJCV', '#INFOCOM', '#MM', '#NOSSDAV',
+        '#SPL', '#TOG',
+        '#WACV',
     }
 
     @staticmethod
