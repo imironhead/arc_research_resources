@@ -17,7 +17,7 @@
 
 ### Research Areas
 
-#360_video_streaming #gan #image_super_resolution #temporal_coherence #video_compression #video_denosing #video_frame_interpolation #video_super_resolution
+#360_video_streaming #gan #high_dynamic_range_video #image_super_resolution #temporal_coherence #video_compression #video_denosing #video_frame_interpolation #video_super_resolution
 
 ## Research Papers
 
@@ -145,6 +145,10 @@
     - Use per-segment micro super-resolution models to improve QoE of 360 video streamings.
     - #INFOCOM #Y2020 #360_video_streaming #video_super_resolution
 
+- [JSI-GAN: GAN-Based Joint Super-Resolution and Inverse Tone-Mapping with Pixel-Wise Task-Specific Filters for UHD HDR Video](../../research_papers/jsigan/)
+    - Proposed a model to do spatio-color video super resolution.
+    - #AAAI #Y2020 #high_dynamic_range_video #video_super_resolution
+
 - [Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation](../../research_papers/ltcsgvg/)
     - Proposed a spatio-temporal discriminator for temporal coherence of video generation.
     - #TOG #Y2020 #gan #temporal_coherence #video_super_resolution
@@ -182,6 +186,10 @@
 - [Fast Spatio-Temporal Residual Network for Video Super-Resolution](../../research_papers/fstrnvsr/)
     - Proposed **factorized** 3D convolution to reduce computation costs of normal 3D convolution for spatio-temporal residual blocks.
     - #CVPR #Y2019 #video_super_resolution
+
+- [Deep SR-ITM: Joint Learning of Super-Resolution and Inverse Tone-Mapping for 4K UHD HDR Applications](../../research_papers/deepsritm/)
+    - Joint learning of super-resolution and inverse tone-mapping for 4k UHD HDR applications.
+    - #ICCV #Y2019 #high_dynamic_range_video #video_super_resolution
 
 - [NTIRE 2019 Challenge on Video Super-Resolution: Methods and Results](../../research_papers/ntire19vsr/)
     - Summarized 2 video super resolution challenges and proposed models.

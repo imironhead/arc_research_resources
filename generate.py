@@ -476,10 +476,8 @@ class VSRTopicPageWriter(ResearchTopicPageWriter):
         # Temporal super resolution: Video frame interpolation.
         # Spectrum super resolution: High dynamic range.
         area_tags = {
-            '#360_video_streaming',
             '#high_dynamic_range_image', '#high_dynamic_range_video',
             '#single_image_super_resolution',
-            '#video_denosing',
             '#video_frame_interpolation', '#video_super_resolution',
         }
 
