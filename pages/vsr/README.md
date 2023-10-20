@@ -9,7 +9,7 @@
 
 ### Journals
 
-#AAAI #ARXIV #CVPR #CVPRW #ECCV #ICCV #IJCV #INFOCOM #MM #NOSSDAV #SPL #TOG #WACV
+#AAAI #ARXIV #CVPR #CVPRW #ECCV #ICCV #IJCV #INFOCOM #MM #NOSSDAV #NeurIPS #SPL #TOG #WACV
 
 ### Years
 
@@ -190,6 +190,10 @@
 - [Deep SR-ITM: Joint Learning of Super-Resolution and Inverse Tone-Mapping for 4K UHD HDR Applications](../../research_papers/deepsritm/)
     - Joint learning of super-resolution and inverse tone-mapping for 4k UHD HDR applications.
     - #ICCV #Y2019 #high_dynamic_range_video #video_super_resolution
+
+- [Quadratic Video Interpolation](../../research_papers/qvi/)
+    - Proposed a network to interpolate video frames with acceleration distance formula.
+    - #NeurIPS #Y2019 #video_frame_interpolation
 
 - [NTIRE 2019 Challenge on Video Super-Resolution: Methods and Results](../../research_papers/ntire19vsr/)
     - Summarized 2 video super resolution challenges and proposed models.
