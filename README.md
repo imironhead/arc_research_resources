@@ -1,1 +1,3 @@
-# arc_vsr_resources
+# Research Topics
+
+- [Video Super Resolution](./pages/vsr/)
