@@ -87,6 +87,10 @@
 
 ### Y2021
 
+- [Understanding Deformable Alignment in Video Super-Resolution](../../research_papers/udavsr/)
+    - Studied the relationship between deformable and flow-based alignment and proposed approach to increase offset diversity.
+    - #AAAI #Y2021 #video_super_resolution
+
 - [Edge-oriented Convolution Block for Real-time Super Resolution on Mobile Devices](../../research_papers/eocbrtsrmd/)
     - Re-parameterizes the model with mobile-friendly operations (only conv3x3) for inference.
     - #MM #Y2021 #video_super_resolution
