@@ -31,6 +31,10 @@
     - Proposed a pyramid network that unify optical flow and frame synthesis networks in each layer.
     - #CVPR #Y2023 #video_frame_interpolation
 
+- [Exploring Discontinuity for Video Frame Interpolation](../../research_papers/edvfi/)
+    - Proposed 3 techniques for improving deep learning based VFI architectures on discontinuous motions.
+    - #CVPR #Y2023 #video_frame_interpolation
+
 - [BiFormer: Learning Bilateral Motion Estimation via Bilateral Transformer for 4K Video Frame Interpolation](../../research_papers/biformer/)
     - Proposed a model to do 4K video frame interpolation with Transformer.
     - #CVPR #Y2023 #video_frame_interpolation
